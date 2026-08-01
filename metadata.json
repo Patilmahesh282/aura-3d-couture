@@ -1,0 +1,6 @@
+{
+  "name": "AURA 3D Couture",
+  "description": "Immersive 3D clothing store with interactive 3D product showcases, real-time inventory tracking, user auth, and payment gateway simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
